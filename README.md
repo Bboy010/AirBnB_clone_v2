@@ -83,7 +83,6 @@ $ ./console.py
 (hbnb) EOF
 $
 ```
-
 ### Console Commands
 
 The AirBnB console supports the following commands:
@@ -206,3 +205,4 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors :black_nib:
 * **Hongo Koffi Anderson** <[Hongo](https://github.com/Bboy010)>
+* **Kouassi Mienmo Israël** <[Israel](https://github.com/8srael)>
