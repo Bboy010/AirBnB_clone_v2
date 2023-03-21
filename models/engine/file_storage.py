@@ -91,7 +91,7 @@ class FileStorage:
                       "amenity_ids": list},
             "Review":
             {"place_id": str,
-                         "user_id": str,
-                         "text": str}
+                "user_id": str,
+                "text": str}
         }
         return attributes
