@@ -202,6 +202,7 @@ Alternatively, you can specify a single test file to run at a time:
 ```
 $ python3 unittest -m tests/test_console.py
 ```
+## Update AirBnB_clone to AirBnB_clone_v2
 
 ## Authors :black_nib:
 * **Hongo Koffi Anderson** <[Hongo](https://github.com/Bboy010)>
