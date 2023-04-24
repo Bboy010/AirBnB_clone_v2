@@ -1,7 +1,11 @@
 #!/usr/bin/python3
 """Defines the HBnB console."""
 import cmd
+import sys
 import re
+import os
+from datetime import datetime
+import uuid
 from shlex import split
 from models import storage
 from models.base_model import BaseModel
