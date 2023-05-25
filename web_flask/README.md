@@ -1,4 +1,4 @@
-# Web Flask
+# Web Flask project
 
 -Understanding python backend(flask) and jinja 2 templating.
 
